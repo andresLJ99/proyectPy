@@ -1,7 +1,7 @@
 # proyectPy
-# API REST con FastAPI - JWT y Base de Datos NoSQL (Junior Version)
+# API REST con FastAPI
 
-Proyecto que implementa autenticación mediante **JWT** y permite guardar/consultar números asociados al usuario autenticado.
+API REST que permita la autenticación de un usuario mediante JWT, y que dicho usuario pueda guardar y consultar varios números asociados a su cuenta.
 
 ---
 
