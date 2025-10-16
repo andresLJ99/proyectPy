@@ -16,7 +16,7 @@ API REST que permita la autenticación de un usuario mediante JWT, y que dicho u
 
 ```bash
 # 1️⃣ Clonar o descomprimir el proyecto
-cd FastAPI_JWT_Numbers
+cd proyectPy
 
 # 2️⃣ Crear entorno virtual
 python -m venv venv
